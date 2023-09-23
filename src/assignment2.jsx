@@ -18,7 +18,7 @@ const Assign1=()=>  {
   };
 
   useEffect(() => {
-    fetchPhotos();
+    fetchPhotos()
   }, []); 
 
   const handleScroll = () => {
